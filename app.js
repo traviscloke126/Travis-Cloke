@@ -29,4 +29,12 @@
 //    console.log(char);
 //})
 
-
+/*      //Function Definition 
+function welcomePersonToFES(firstName, lastName) {
+    console.log(`Welcome to FES, ${firstName}`, `${lastName}`)
+}
+        // Call to Function- static, no change needed use console.log above for change
+welcomePersonToFES('Travis', `tc`);
+welcomePersonToFES('Wayne');
+welcomePersonToFES('Cloke');
+*/
